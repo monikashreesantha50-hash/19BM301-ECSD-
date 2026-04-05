@@ -2,7 +2,8 @@
 # Aim:
 To design and analyze diode clipper circuits
 # Components Required:
-<img width="688" height="234" alt="image" src="https://github.com/user-attachments/assets/50cb27ac-7f68-4773-9d69-3854f1690efb" />
+<img 
+ width="688" height="234" alt="image" src="https://github.com/user-attachments/assets/50cb27ac-7f68-4773-9d69-3854f1690efb" />
 
 # Procedure:
 1. Construct the circuit shown in Fig 1.
