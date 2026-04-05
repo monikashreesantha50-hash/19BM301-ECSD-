@@ -12,6 +12,7 @@ To plot the characteristics of UJT (2N 2446) and to determine the intrinsic stan
 # Circuit Diagram & Model Graph:
 
 
+
 # Tabular Column & Calculation:
 
 
