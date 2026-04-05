@@ -11,6 +11,7 @@ To study and plot the V‐I characteristics of SCR
 # Circuit Diagram  Model Graph:
 
 
+
 # Tabular Column & Calculation:
 
 
