@@ -5,6 +5,7 @@ To plot the V-I characteristics of Zener diode.
 <img width="920" height="226" alt="image" src="https://github.com/user-attachments/assets/42684f69-19eb-43b5-9946-f0ac21e44a0c" />
 # PROCEDURE:
 
+
 FORWARD BIAS:
 
 i) The connections are made as per the circuit diagram.
