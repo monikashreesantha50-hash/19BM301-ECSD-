@@ -51,3 +51,4 @@ Thus the Zener diode characteristics were studied.
 
 
 
+
