@@ -3,6 +3,7 @@
 To Plot the input and output characteristics of the transistor in CE mode, to determine the h-parameters from the graph.
 # Components Required:
 <img width="681" height="339" alt="image" src="https://github.com/user-attachments/assets/4260154b-688f-4e0f-a430-8f90b498072f" />
+
 # Procedure:
 INPUT CHARACTERISTICS
 1. Connections are made as per the circuit diagram.
